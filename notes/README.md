@@ -32,15 +32,21 @@
 | 第11章 | 为分类任务微调表示模型 | [ch11-finetuning-classification.md](part3-training/ch11-finetuning-classification.md) |
 | 第12章 | 微调生成模型 | [ch12-finetuning-generation.md](part3-training/ch12-finetuning-generation.md) |
 
+### 拓展论文与文章笔记
+
+| 笔记 | 主题 | 来源 |
+|------|------|------|
+| [hanlee-agent-not-model.md](papers/hanlee-agent-not-model.md) | Agent ≠ Model：Agent 本质是工作流系统 | Han Lee 博客 |
+
 ## 代码示例
 
 [code/](code/) — 各章节配套练习代码
 
 ## 学习进度
 
-- [ ] 第1章 大语言模型简介
-- [ ] 第2章 词元和嵌入
-- [ ] 第3章 LLM的内部机制
+- [x] 第1章 大语言模型简介
+- [x] 第2章 词元和嵌入
+- [x] 第3章 LLM的内部机制
 - [ ] 第4章 文本分类
 - [ ] 第5章 文本聚类和主题建模
 - [ ] 第6章 提示工程
