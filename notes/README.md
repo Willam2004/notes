@@ -38,6 +38,12 @@
 |------|------|------|
 | [hanlee-agent-not-model.md](papers/hanlee-agent-not-model.md) | Agent ≠ Model：Agent 本质是工作流系统 | Han Lee 博客 |
 
+### Agent Harness 实践
+
+| 笔记 | 主题 | 来源 |
+|------|------|------|
+| [codex-cli-harness-实践指南.md](harness/codex-cli-harness-实践指南.md) | OpenAI Codex CLI harness 架构与实践（安装配置、安全三层闸门、扩展体系、多代理、自动化） | [openai/codex](https://github.com/openai/codex) 源码 |
+
 ## 代码示例
 
 [code/](code/) — 各章节配套练习代码
